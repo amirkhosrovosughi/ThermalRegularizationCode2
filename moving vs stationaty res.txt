@@ -1,0 +1,5 @@
+Moving: 
+State cost is equal to 41.4957Input cost is equal to374.9726
+
+Stationary: (in room 4)
+State cost is equal to 1640.5141Input cost is equal to10862.0892
